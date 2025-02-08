@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "16fe62aa93214e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe06bde886692f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "489f4d02f300786d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Методологии +legend.canvas",
+                "viewState": {
+                  "x": -1516.9665039578076,
+                  "y": 657.2056879479516,
+                  "zoom": -0.6793625225008322
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Методологии +legend"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6c7a44cf0f9706b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9315e7d2ba3562e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb12069bdaf314db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1dd8999902783c9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e084306ab77c297",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2ac78ebda7ecbe06",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ae07a76b470930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7436719033ac653b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Многопоточка - База - SQL - OTHER SHIT.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Многопоточка - База - SQL - OTHER SHIT"
+            }
+          },
+          {
+            "id": "09405823f2c7253e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Многопоточка - База - SQL - OTHER SHIT.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Многопоточка - База - SQL - OTHER SHIT"
+            }
+          },
+          {
+            "id": "0fe81c8e5c351898",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3130189592633ff6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Многопоточка - База - SQL - OTHER SHIT.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Многопоточка - База - SQL - OTHER SHIT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "489f4d02f300786d",
+  "lastOpenFiles": [
+    "Каналы.md",
+    "Жизненый цикл задачи.md",
+    "Методологии +legend.canvas",
+    "LEgeend.canvas",
+    "Многопоточка - База - SQL - OTHER SHIT.canvas",
+    "Методологии.md",
+    "Применение интерфейсов.md",
+    "go_maps_summary.md",
+    "Расписанное резюме.md",
+    "Выравнивание.md"
+  ]
+}
