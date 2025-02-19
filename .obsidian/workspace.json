@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fe06bde886692f00",
+        "id": "5eb874bf4948b44a",
         "type": "tabs",
         "children": [
           {
-            "id": "489f4d02f300786d",
+            "id": "a6a1bfcd8ced428d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Методологии +legend.canvas",
                 "viewState": {
-                  "x": -1516.9665039578076,
-                  "y": 657.2056879479516,
-                  "zoom": -0.6793625225008322
+                  "x": -999.4985091640713,
+                  "y": 984.0917733227103,
+                  "zoom": -0.29831474415491693
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,13 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "489f4d02f300786d",
+  "active": "a6a1bfcd8ced428d",
   "lastOpenFiles": [
+    "Map.md",
+    "Методологии +legend.canvas",
+    "Многопоточка - База - SQL - OTHER SHIT.canvas",
     "Каналы.md",
     "Жизненый цикл задачи.md",
-    "Методологии +legend.canvas",
     "LEgeend.canvas",
-    "Многопоточка - База - SQL - OTHER SHIT.canvas",
     "Методологии.md",
     "Применение интерфейсов.md",
     "go_maps_summary.md",
